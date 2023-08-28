@@ -1,0 +1,12 @@
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\bin\Debug\SocketDemo.exe
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\bin\Debug\SocketDemo.pdb
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\bin\Debug\SocketDemo.exe.config
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\obj\Debug\ServerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\obj\Debug\ServerApp.csproj.CopyComplete
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\ServerApp\obj\Debug\ServerApp.pdb

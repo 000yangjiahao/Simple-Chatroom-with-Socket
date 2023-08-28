@@ -1,0 +1,8 @@
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csproj.AssemblyReference.cache
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csproj.CoreCompileInputs.cache
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+C:\Users\xiaolongxia\Desktop\C# windows开发\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
